@@ -1,0 +1,42 @@
+{
+  "before": null,
+  "after": {
+    "desafio.public.transactions.Value": {
+      "transaction_id": 1,
+      "card_id": 95,
+      "account_id": 95,
+      "merchant_id": 37,
+      "amount": "\u0001à",
+      "currency": "BRL",
+      "status": "APPROVED",
+      "created_at": "2026-10-05T17:38:12.544492Z"
+    }
+  },
+  "source": {
+    "version": "3.2.5.Final",
+    "connector": "postgresql",
+    "name": "desafio",
+    "ts_ms": 1791917042453,
+    "snapshot": {
+      "string": "first_in_data_collection"
+    },
+    "db": "neondb",
+    "sequence": {
+      "string": "[null,\"29998752\"]"
+    },
+    "schema": "public",
+    "table": "transactions",
+    "txId": {
+      "long": 2087
+    },
+    "lsn": {
+      "long": 29998752
+    },
+    "xmin": null
+  },
+  "op": "r",
+  "ts_ms": {
+    "long": 1791917042672
+  },
+  "transaction": null
+}

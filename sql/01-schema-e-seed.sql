@@ -1,0 +1,2 @@
+-- Cole aqui o script de criação das tabelas e do seed exatamente como foi executado no Neon
+-- (customers, accounts, cards, merchants, transactions, REPLICA IDENTITY FULL e seed com setseed(0.42)).
